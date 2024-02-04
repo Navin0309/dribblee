@@ -1,12 +1,12 @@
 import React from 'react'
-import image5 from '../img/image5.png'
+import image8 from '../img/image8.png'
 import { HeartIcon } from "@heroicons/react/solid"
 import { EyeIcon } from "@heroicons/react/solid"
 
 const Project = () => {
   return (
     <div className="w-[350px] h-[370px] rounded-xl mb-5">
-        <img className="rounded-xl" src={image5} alt="" />
+        <img className="rounded-xl" src={image8} alt="" />
         <div className="flex justify-between p-2">
             <div className="flex items-center">
                 <h3 className="font-bold text-black text-[15px]">name</h3>
