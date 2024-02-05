@@ -14,17 +14,7 @@ const Search = () => {
     'Logo Design', 'Branding', 'Iconography', 'Motion Graphics', '3D Design', 'Art Direction', 'Creative Process', 'Storytelling in Design',
     'Emotional Design', 'Aesthetics', 'Design Thinking', 'Human-Centered Design', 'Digital Art', 'Vector Graphics', 'Pixel Art', 'Multimedia Integration',
     'Navigation Design', 'Scroll Animations', 'Parallax Scrolling', 'Photography in Web Design', 'Icon Fonts',
-    'Infographics', 'Interaction Design', 'Virtual Reality (VR)', 'Augmented Reality (AR)', 'Game Design', 'Packaging Design', 'Print Design',
-    'Calligraphy', 'Brush Lettering', 'Kinetic Typography', 'Ambient Design', 'Responsive Typography', 'Mobile First Design', 'Flat Design', 'Skeuomorphism',
-    'Material Design', 'Adaptive Design', 'Emotional Intelligence in Design', 'Usability Testing', 'Design Systems', 'Scalability', 'Fluid Design',
-    'Retro-Futurism', 'Cinemagraphs', 'Responsive Images', 'Content First Design', 'Data Visualization', 'Isometric Design', 'Doodle Art', 'Comic Art',
-    'Street Art', 'Public Art', 'Environmental Design', 'Experimental Design', 'Sustainable Design', 'Inclusive Design', 'Collaborative Design',
-    'Critical Design', 'Generative Art', 'Open Source Design', 'Design Ethics', 'Retro Design', 'Neo-Futurism', 'Art Nouveau', 'Surrealism', 'Cubism',
-    'Abstract Expressionism', 'Impressionism', 'Pointillism', 'Op Art', 'Art Deco', 'Renaissance Art', 'Baroque Art', 'Gothic Art', 'Expressionism', 'Dadaism',
-    'Bauhaus', 'Pop Art', 'Street Photography', 'Rule of Thirds', 'Golden Ratio', 'Fibonacci Sequence in Design', 'Design Trends', 'Futuristic Design',
-    'Vintage Design', 'Digital Painting', 'Color Grading', 'Storyboarding', 'Visual Storytelling', 'Cultural Influences in Design',
-    'Global Design Perspectives', 'Cross-Cultural Design', 'Design for Social Impact', 'Emotional Intelligence in Art', 'Art Therapy', 'Mixed Media Art',
-    'Outsider Art', 'Contemporary Art', 'Art Installations', 'Visual Identity Design', 'Dark Mode Design', 'Adaptive Icons', 'Fluid Grids', 'Progressive Enhancement'];
+    'Infographics', 'Interaction Design'];
 
     // Filter suggestions based on the input value
     const filteredSuggestions = allSuggestions.filter(suggestion =>
