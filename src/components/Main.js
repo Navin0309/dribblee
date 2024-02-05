@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '../img/img1.png';
+import bg from "../components/img/ba.jpeg"
 const Main = () => {
   return (
     <div className="relative h-[480px]">
@@ -10,7 +10,7 @@ const Main = () => {
         </div>
         <div className="bg-black absolute opacity-70 w-full h-full">
         </div>
-        <img  className="w-full h-full object-cover" src={img1} alt="" />
+        <img  className="w-full h-full object-cover" src={bg} alt="" />
     </div>
   )
 }

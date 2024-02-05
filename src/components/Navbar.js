@@ -1,5 +1,5 @@
 import React from 'react'
-import Dribble from '../img/Dribble.png'
+import Dribble from  "../components/img/Dribble.png"
 import Search from './Search'
 
 const Navbar = () => {

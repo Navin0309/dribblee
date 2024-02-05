@@ -1,16 +1,15 @@
 import React from 'react'
-import img2 from '../img/img2.jpg'
+import image3 from '../img/image3.png'
 import { HeartIcon } from "@heroicons/react/solid"
 import { EyeIcon } from "@heroicons/react/solid"
-import image1 from '../img/image1.png'
 
-const Project_1 = () => {
+const Project_3 = () => {
   return (
     <div className="w-[350px] h-[370px] rounded-xl mb-5">
-        <img className="rounded-xl" src={image1} alt="" />
+        <img className="rounded-xl" src={image3} alt="" />
         <div className="flex justify-between p-2">
             <div className="flex items-center">
-                <h3 className="font-bold text-black text-[15px]">DesignSense </h3>
+                <h3 className="font-bold text-black text-[15px]">Omar Tarek</h3>
                 <h3 className="bg-gray-300 text-white p-[2px] text-xs font-bold rounded-md ml-2">TEAM</h3>
             </div>
             <div className="flex space-x-2">
@@ -28,4 +27,4 @@ const Project_1 = () => {
   )
 }
 
-export default Project_1
+export default Project_3

@@ -4,6 +4,7 @@ import Menu from "./components/Menu";
 import Projects from "./components/Projects";
 import Footer from "./components/Footers";
 import Projects1 from "./components/Projects1";
+import Projects2 from "./components/Projects2";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <add/>
       <Projects/>
       <Projects1/>
+      <Projects2/>
       <Footer />
     </div>
   );
