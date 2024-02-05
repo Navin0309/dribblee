@@ -15,7 +15,7 @@ const Project = () => {
             <div className="flex space-x-2">
                 <div className="flex items-center">
                     <HeartIcon className="h-3 w-3 text-gray-500"/>
-                    <h2 className="text-sm"> 60</h2>
+                    <h2 className="text-sm">19</h2>
                 </div>
                 <div className="flex items-center">
                     <EyeIcon className="h-3 w-3 text-gray-500"/>

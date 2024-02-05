@@ -10,12 +10,12 @@ const Project = () => {
         <div className="flex justify-between p-2">
             <div className="flex items-center">
                 <h3 className="font-bold text-black text-[15px]">Sudhamshu</h3>
-                <h3 className="bg-gray-300 text-white p-[2px] text-xs font-bold rounded-md ml-2">TEAM</h3>
+                <h3 className="bg-gray-300 text-white p-[2px] text-xs font-bold rounded-md ml-2">Pro</h3>
             </div>
             <div className="flex space-x-2">
                 <div className="flex items-center">
                     <HeartIcon className="h-3 w-3 text-gray-500"/>
-                    <h2 className="text-sm"> 60</h2>
+                    <h2 className="text-sm">35</h2>
                 </div>
                 <div className="flex items-center">
                     <EyeIcon className="h-3 w-3 text-gray-500"/>

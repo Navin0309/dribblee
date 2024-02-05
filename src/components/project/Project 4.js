@@ -15,7 +15,7 @@ const Project_4 = () => {
             <div className="flex space-x-2">
                 <div className="flex items-center">
                     <HeartIcon className="w-5 h-5 items-center m-1 text-gray-500"/>
-                    <h2 className="text-sm"> 61</h2>
+                    <h2 className="text-sm">44</h2>
                 </div>
                 <div className="flex items-center">
                     <EyeIcon className="w-5 h-5 items-center m-1 text-gray-500"/>

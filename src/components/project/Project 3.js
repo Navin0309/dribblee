@@ -10,7 +10,7 @@ const Project_3 = () => {
         <div className="flex justify-between p-2">
             <div className="flex items-center">
                 <h3 className="font-bold text-black text-[15px]">Omar Tarek</h3>
-                <h3 className="bg-gray-300 text-white p-[2px] text-xs font-bold rounded-md ml-2">TEAM</h3>
+                <h3 className="bg-gray-300 text-white p-[2px] font-bold rounded-md text-xs ml-2">TEAM</h3>
             </div>
             <div className="flex space-x-2">
                 <div className="flex items-center">
