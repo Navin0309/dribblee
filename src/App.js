@@ -6,7 +6,7 @@ import Projects from "./components/Projects";
 import Projects1 from "./components/Projects1";
 import Projects2 from "./components/Projects2";
 import Projects3 from "./components/Projects3";
-import Footer from "./components/Footers.js";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (

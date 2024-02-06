@@ -11,7 +11,7 @@ const Project_16 = () => {
             <div className="flex items-center">
                 <h3 className="font-bold text-black text-[15px]">
                 Naila Sa</h3>
-                <h3 className="bg-gray-300 text-white p-[2px] text-xs font-bold rounded-md ml-2">TEAM</h3>
+                <h3 className="bg-gray-300 text-white p-[2px] text-xs font-bold rounded-md ml-2">PRO</h3>
             </div>
             <div className="flex space-x-2">
                 <div className="flex items-center">

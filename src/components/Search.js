@@ -11,10 +11,7 @@ const Search = () => {
     // Dummy data for suggestions (replace with your own data)
     const allSuggestions = ['User Experience (UX)', 'User Interface (UI)', 'Responsive Design', 'Minimalism', 'Typography', 'Color Theory', 'Graphic Design',
     'Illustration', 'Web Accessibility', 'Wireframing', 'Prototyping', 'Mobile Design', 'Visual Hierarchy', 'Grid Systems', 'Whitespace',
-    'Logo Design', 'Branding', 'Iconography', 'Motion Graphics', '3D Design', 'Art Direction', 'Creative Process', 'Storytelling in Design',
-    'Emotional Design', 'Aesthetics', 'Design Thinking', 'Human-Centered Design', 'Digital Art', 'Vector Graphics', 'Pixel Art', 'Multimedia Integration',
-    'Navigation Design', 'Scroll Animations', 'Parallax Scrolling', 'Photography in Web Design', 'Icon Fonts',
-    'Infographics', 'Interaction Design'];
+    'Logo Design', 'Branding'];
 
     // Filter suggestions based on the input value
     const filteredSuggestions = allSuggestions.filter(suggestion =>
