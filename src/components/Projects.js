@@ -7,7 +7,6 @@ import Project_8 from '../components/project/Project8'
 const Projects = () => {
   return (
     <div className="flex flex-wrap w-full justify-evenly mt-10">
-
         <Project_5/>
         <Project_6/>
         <Project_7/>
